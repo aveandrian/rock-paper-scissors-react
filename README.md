@@ -20,4 +20,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/rock-paper-scissors-react/assets/13519212/a8d205e9-67bc-45fa-8a49-5d775bea5c0e)
